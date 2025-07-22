@@ -1,2 +1,16 @@
-# smarttalk-mini-chatgpt
-SmartTalk is a lightweight chatbot app built using Streamlit and Hugging Face’s DialoGPT-small model. It simulates natural conversations and can be deployed locally or on the web. A great project for learning how conversational AI works!
+# 💬 SmartTalk - Mini ChatGPT
+
+SmartTalk is a lightweight AI chatbot built using **Hugging Face's DialoGPT** and **Streamlit**, designed to provide an interactive chat interface like ChatGPT — but simplified and fully local!
+
+---
+
+## 🚀 Features
+
+- 🔮 Chat interface using Streamlit
+- 🧠 Natural language responses powered by DialoGPT
+- 💻 Local run – No need for API keys
+- 📦 Easy to deploy and share
+
+---
+
+
